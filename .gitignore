@@ -6,3 +6,7 @@ __pycache__/
 venv/
 env/
 
+# Local ARIS/Codex skill installation. Contains machine-specific symlinks.
+.agents/
+.aris/
+AGENTS.md
